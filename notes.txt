@@ -1,0 +1,11 @@
+code . => ouvrir une nouvelle fenêtre éditeur dans le dossier où on est via le terminal
+start . => ouvre l'explorateur de windows dans le dossier où on se trouve via le terminal
+
+- installer node.js
+- install yarn
+- yarn install
+
+
+State = l'état de ta classe. Disparait à la place du UseState, instancé comme une constante.
+UseEffect = se déclenche à certain moment de la durée de vie d'un composant
+Un composant a 3 évenements majeurs : création, update, delete
